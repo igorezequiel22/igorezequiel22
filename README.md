@@ -1,20 +1,86 @@
+## 🌐 Redes Sociales
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/vtfdCqjY) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/eze.altamiirano1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/Igor_.ezequiel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ezequiel-jerem%C3%ADas-igor/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Igor_ezequiel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailto:igorezequiel2468@gmail.com) 
+<p align="center">
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=igorezequiel22&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=igorezequiel22&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=igorezequiel22&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="https://discord.gg/vtfdCqjY">
+<img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white"/>
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://www.facebook.com/eze.altamiirano1">
+<img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/Igor_.ezequiel">
+<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ezequiel-jerem%C3%ADas-igor/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@Igor_ezequiel">
+<img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:igorezequiel2468@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=igorezequiel22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💻 Tecnologías
 
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,mysql,git,github,gitlab,figma,blender"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+
+</p>
+
+---
+
+# 📊 Estadísticas de GitHub
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=igorezequiel22&show_icons=true&theme=tokyonight"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=igorezequiel22&theme=tokyonight"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorezequiel22&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Actividad de Contribuciones
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
