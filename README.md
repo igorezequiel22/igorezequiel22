@@ -44,6 +44,9 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
 <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/OpenAI-GPT--3.5%20Turbo-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
 </p>
 
